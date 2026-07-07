@@ -86,12 +86,12 @@ This lab demonstrates multi-wireless device connectivity using a Cisco Wireless 
 End-to-end connectivity verified across all network segments:
 
 ### Local Network Ping (200.1.1.0/24)
-![Local Network Ping](PC pinging_1.png)
+![Local Network Ping](PC%20pinging_1.png)
 
 ### WAN Router Ping (2.1.1.1)
-![WAN Router Ping](PC pinging_2.png)
+![WAN Router Ping](PC%20pining_2.png)
 
 ### Remote Network Ping (150.1.1.2)
-![Remote Ping](PC pinging_3.png)
+![Remote Ping](PC%20pining_3.png)
 
 ✅ All pings successful — full network connectivity confirmed!
